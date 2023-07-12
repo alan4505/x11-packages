@@ -14,4 +14,4 @@ TERMUX_PKG_EXTRA_CONFIGURE_ARGS="--enable-introspection=no --disable-vala"
 # installing gtk-doc
 termux_step_pre_configure(){
 	autoreconf -fi
-}
+}https://github.com/termux/x11-packages/blob/f8b6282f6a132d3e28715becd3c0ddb990bddd54/CONTRIBUTING.md?plain=1#L45
